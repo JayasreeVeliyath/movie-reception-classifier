@@ -25,6 +25,6 @@ npm run build
 
 ## Result
 
-If the review/response is "Heart warming good movie with emotions", the result is Positive Reception.
+If the review/response is "Emotional movie about the bond between humans and dogs", the result is Positive Reception.
 
 If the review/response is "You don't need a woman to make a good movie", the result is Negative Reception.
