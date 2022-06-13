@@ -22,3 +22,8 @@ Edit line no. 30 or 31 in index.js to view a positive or negative response.
 ```sh
 npm run build
 ```
+
+## Result
+
+If the review/response is "Heart warming good movie with emotions", the result is Positive Reception.
+If the review/response is "You don't need a woman to make a good movie", the result is Negative Reception.
