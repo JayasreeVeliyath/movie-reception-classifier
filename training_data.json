@@ -1,0 +1,44 @@
+[
+  {
+    "review": "A heart warming movie about the bond between Dharma and Charlie",
+    "perception": {
+      "positive": 1
+    }
+  },
+  {
+    "review": "A heart warming movie about the bond between a Man and his dog",
+    "perception": {
+      "positive": 1
+    }
+  },
+  {
+    "review": "It’s a complete package an amazingly curated story best acting by everyone involved and an emotional roller coaster",
+    "perception": {
+      "positive": 1
+    }
+  },
+  {
+    "review": "Charlie 777 is not just a movie its full of emotions and it touches your heart and a dog can change your life",
+    "perception": {
+      "positive": 1
+    }
+  },
+  {
+    "review": "Movie has not just shown us that women don't need to wear small dress and dance for item numbers to make hit movies but also clearly shown us that women are not even needed",
+    "perception": {
+      "negative": 1
+    }
+  },
+  {
+    "review": "Rashmika Mandanna is going to regret her decision",
+    "perception": {
+      "negative": 1
+    }
+  },
+  {
+    "review": "Kannada Industry is better than Telugu industry",
+    "perception": {
+      "negative": 1
+    }
+  }
+]

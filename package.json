@@ -1,0 +1,21 @@
+{
+  "name": "movie-reception-classifier",
+  "version": "1.0.0",
+  "description": "Program to determine if the movie - Charlie777, was perceived in a positive or negative manner.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": [
+    "machine_learning",
+    "classifier",
+    "brain.js",
+    "charlie_777"
+  ],
+  "author": "jayasree veliyathu",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.15",
+    "natural": "^5.2.2"
+  }
+}
