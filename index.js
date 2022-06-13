@@ -27,9 +27,9 @@ const buildCipheredReviewAndResult = TrainingData.map(data => {
 const network = new BrainJs.NeuralNetwork()
 network.train(buildCipheredReviewAndResult)
 
-const encoded = cipherReview("heart warming");
-//const encoded = cipherReview("women");
-let prediction = network.run(encoded);
+const cipheredReview = cipherReview("Emotional movie about the bond between humans and dogs"); // Positive
+//const cipheredReview = cipherReview("You don't need a woman to make a good movie"); // Negative
+let prediction = network.run(cipheredReview);
 if(prediction.positive >= prediction.negative) {
     console.log("Positive Reception");
 }
